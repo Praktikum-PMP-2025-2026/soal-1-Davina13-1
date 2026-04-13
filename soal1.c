@@ -1,3 +1,12 @@
+/** EL2008 Praktikum Pemecahan Masalah dengan Pemrograman 2024/2025
+ *   Modul               : 1
+ *   Hari dan Tanggal    : Senin, 12 April 2026
+ *   Nama (NIM)          : Davina Alya Shakira (13224081)
+ *   Nama File           : soal1.c
+ *   Deskripsi           : Program untuk memproses data peneliti di gerbang keamanan berdasarkan level izin, suhu tubuh, dan radiasi
+ * 
+ */
+
 #include <stdio.h>
 
 int main (){
